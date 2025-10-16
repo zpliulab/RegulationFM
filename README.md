@@ -89,7 +89,7 @@ RegulationGPT/
 
 The simulation datasets used to reproduce our results is hosted on Zenodo:
 
-- Record: https://zenodo.org/records/10445253  
+- Record: https://doi.org/10.5281/zenodo.17367292 
 - Contents: pre-split training and test sets plus the gold-standard network
 - 
 ### Other datasets
