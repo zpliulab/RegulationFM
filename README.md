@@ -6,7 +6,7 @@ RegulationFM is a foundation model for accurate and interpretable Gene Regulator
 > GRN - Gene Regulatory Network  
 > scRNA-seq - single-cell RNA sequencing  
 > scATAC-seq - single-cell Assay for Transposase-Accessible Chromatin  
-![workfolw](E:\2025工作\Multiomics\上传Github的文件\RegulationFM\images\framework.png)
+![workfolw](https://github.com/zpliulab/RegulationFM/blob/main/images/images1.png)
 
 ## Requirements ![Python](https://img.shields.io/badge/python-3.10-blue "Python3.10")
 
@@ -104,7 +104,7 @@ The simulation datasets used to reproduce our results is hosted on Zenodo:
 ## Quick Start
 
 <div align="center">
-  <img src="https://github.com/zpliulab/DigNet/blob/main/images/network.gif" alt="Schematic diagram of DigNet generation network" style="width: 200px; height: 100px;"/>
+  <img src="https://github.com/zpliulab/RegulationFM/blob/main/images/network.gif" alt="Schematic diagram of DigNet generation network" style="width: 200px; height: 100px;"/>
 </div>
 
 ### A. Train the model
