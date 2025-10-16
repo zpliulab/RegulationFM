@@ -7,9 +7,11 @@ RegulationFM is a foundation model for accurate and interpretable Gene Regulator
 > scRNA-seq - single-cell RNA sequencing  
 > scATAC-seq - single-cell Assay for Transposase-Accessible Chromatin
 
+
 <div align="center">
-  <img src="https://github.com/zpliulab/RegulationFM/blob/main/images/images1.png" alt="Schematic diagram of RegulationFM generation network" style="width: 500px; height: 500px;"/>
+  <img src="https://github.com/zpliulab/RegulationFM/blob/main/images/images1.jpg" alt="Schematic diagram of RegulationFM generation network" style="width: 1500px; height: 200px;"/>
 </div>
+
 ## Requirements ![Python](https://img.shields.io/badge/python-3.10-blue "Python3.10")
 
 Before you start, ensure the following packages are installed.
