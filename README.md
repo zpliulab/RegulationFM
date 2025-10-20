@@ -9,7 +9,7 @@ RegulationFM is a foundation model for accurate and interpretable Gene Regulator
 
 
 <div align="center">
-  <img src="https://github.com/zpliulab/RegulationFM/blob/main/images/images1.jpg" alt="Schematic diagram of RegulationFM generation network" style="width: 1500px; height: 200px;"/>
+  <img src="https://github.com/zpliulab/RegulationFM/blob/main/images/images1.jpg" alt="Schematic diagram of RegulationFM generation network" style="width: 1500px; height: 195px;"/>
 </div>
 
 ## Requirements ![Python](https://img.shields.io/badge/python-3.10-blue "Python3.10")
